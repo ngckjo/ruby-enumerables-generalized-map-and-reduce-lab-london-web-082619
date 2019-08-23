@@ -1,3 +1,3 @@
 # Your Code Here
 
-Array.map{
+Array.map{|n| n*-1}

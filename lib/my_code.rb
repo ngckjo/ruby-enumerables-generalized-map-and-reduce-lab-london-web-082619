@@ -4,4 +4,4 @@ def map(source_array)
   yield(source_array)
 end
 
-map(array){|n| 
+map(array){|n| n*-1)

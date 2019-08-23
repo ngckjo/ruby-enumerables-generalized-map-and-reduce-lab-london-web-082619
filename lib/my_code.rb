@@ -1,7 +1,3 @@
 # Your Code Here
 
-def map(source_array)
-  yield(source_array)
-end
-
-map(array){|n| n*-1)
+Array
